@@ -1,2 +1,2 @@
 # skilling-index
-Example index repository for 
+Example index repository for MCT assets.
