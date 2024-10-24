@@ -1,5 +1,4 @@
 title: 'Skilling assets repository index'
-remote_theme: MicrosoftLearning/Jekyll-Theme
 exclude:
   - readme.md
   - .github/
