@@ -1,3 +1,4 @@
+[![Deploy GitHub Pages](https://github.com/iveylabs/skilling-index/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/iveylabs/skilling-index/actions/workflows/jekyll-gh-pages.yml)
 # Skilling index
 Example index repository for MCT assets.
 
