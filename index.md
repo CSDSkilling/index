@@ -12,11 +12,12 @@ Below you will find links to various assets grouped by asset type.
 
 <summary>Demos</summary>
 
-### You can add a header
+### Demos
 
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
+| Title | Description |
+| --- | --- |
+| [Demo 1](https://bing.com) | Demo 1 description |
+| [Demo 2](https://bing.com) | Demo 2 description |
 
 </details>
 
