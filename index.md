@@ -27,5 +27,5 @@ Below you will find links to various assets grouped by asset type.
 
 | Title | Description |
 | --- | --- |
-| [Whiteboarding 1](https://bing.com) | Whiteboarding 1 description |
+| [Whiteboarding 1](https://github.com/iveylabs/skilling-whiteboarding-example1) | Whiteboarding 1 description |
 | [Whiteboarding 2](https://bing.com) | Whiteboarding 2 description |
