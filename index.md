@@ -8,30 +8,7 @@ layout: home
 
 Below you will find links to various assets grouped by asset type.
 
-<details>
-  <summary>Click to expand</summary>
-
-  | Header 1 | Header 2 |
-  |----------|----------|
-  | Cell 1   | Cell 2   |
-  | Cell 3   | Cell 4   |
-
-</details>
-
-<details>
-  <summary>stuff with *mark* **down** in `summary` doesn't work any more, use HTML <i>italics</i> and <b>bold</b> instead in <code>&lt;summary&gt;</code> (<i>click to expand</i>)</summary>
-  <!-- have to be followed by an empty line! -->
-
-# test
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Cell 1   | Cell 2   |
-| Cell 3   | Cell 4   |
-
-</details>
-
-<!--## Demos
+## Demos
 
 | Title | Description |
 | --- | --- |
@@ -52,4 +29,3 @@ Below you will find links to various assets grouped by asset type.
 | --- | --- |
 | [Whiteboarding 1](https://bing.com) | Whiteboarding 1 description |
 | [Whiteboarding 2](https://bing.com) | Whiteboarding 2 description |
--->
