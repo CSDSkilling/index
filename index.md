@@ -5,9 +5,11 @@ layout: home
 ---
 
 # Asset repository index
+
 Below you will find links to various assets grouped by asset type.
 
 ## Demos
+
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
