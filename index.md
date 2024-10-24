@@ -9,15 +9,12 @@ layout: home
 Below you will find links to various assets grouped by asset type.
 
 <details>
+  <summary>Click to expand</summary>
 
-<summary>Demos</summary>
-
-### Demos
-
-| Title | Description |
-| --- | --- |
-| [Demo 1](https://bing.com) | Demo 1 description |
-| [Demo 2](https://bing.com) | Demo 2 description |
+  | Header 1 | Header 2 |
+  |----------|----------|
+  | Cell 1   | Cell 2   |
+  | Cell 3   | Cell 4   |
 
 </details>
 
