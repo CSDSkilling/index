@@ -9,7 +9,6 @@ Below you will find links to various assets grouped by asset type.
 
 ## Demos
 | Title | Description |
-| --- | --- |
 | [Demo 1](https://bing.com) | Demo 1 description |
 | [Demo 2](https://bing.com) | Demo 2 description |
 
