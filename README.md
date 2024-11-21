@@ -1,3 +1,5 @@
+[![Deploy GitHub Pages](https://github.com/CSDSkilling/index/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/CSDSkilling/index/actions/workflows/jekyll-gh-pages.yml)
+
 # Skilling Innovation Assets Index
 
 When a new repo needs to be created:
