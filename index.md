@@ -7,7 +7,7 @@ layout: home
 # Asset repository index
 
 Below you will find links to various assets grouped by asset type.   
-{% EXAMPLE
+{% comment %} EXAMPLE
 ## Demos
 
 | Title | Description |
@@ -29,4 +29,4 @@ Below you will find links to various assets grouped by asset type.
 | --- | --- |
 | [Whiteboarding 1](https://github.com/iveylabs/skilling-whiteboarding-example1) | Whiteboarding 1 description |
 | [Whiteboarding 2](https://bing.com) | Whiteboarding 2 description |
-%}
+{% endcomment %}
