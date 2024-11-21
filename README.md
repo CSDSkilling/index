@@ -1,7 +1,7 @@
 # Skilling Innovation Assets Index
 
 When a new repo needs to be created:
-- [ ] Create the repo from appropriate template.
+- [ ] Create the repo from the template repo.
 - [ ] Initially, set the visibility as private (the maintainer will set to private once ready).
 - [ ] Add the responisble user account(s) to the repo with the "Maintain" role.
 - [ ] Add the relevant XLerate/v-team team(s) to the repo with the "Admin" role.
