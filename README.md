@@ -1,6 +1,4 @@
-[![Deploy GitHub Pages](https://github.com/iveylabs/skilling-index/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/iveylabs/skilling-index/actions/workflows/jekyll-gh-pages.yml)
-# Skilling index
-Example index repository for MCT assets.
+# Skilling Innovation Assets Index
 
 When a new repo needs to be created:
 - [ ] Create the repo from appropriate template.
