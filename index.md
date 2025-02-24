@@ -30,3 +30,9 @@ Below you will find links to various assets grouped by asset type.
 | [Whiteboarding 1](https://github.com/iveylabs/skilling-whiteboarding-example1) | Whiteboarding 1 description |
 | [Whiteboarding 2](https://bing.com) | Whiteboarding 2 description |
 {% endcomment %}
+
+## iEngage/gamification
+
+| Title | Description |
+| --- | --- |
+| [iEngage 2.0](https://csdskilling.github.io/iengage/) | This initiative is designed to create a dynamic and interactive learning environment through gamified assets, engaging AI design comics, interactive comic videos, etc. |
